@@ -111,6 +111,9 @@ jenkins_users: {}
 # NOTE: This variable must be defined!
 jenkins_version: "2.277.2"
 
+# Jenkins URL Prefix
+jenkins_prefix: ""
+
 # If the Jenkins instance requires authentication, then this variable should contain a
 # username for an administrator. This is used to determine when Jenkins has finished
 # starting up and is ready for requests, as well as adding user accounts.
