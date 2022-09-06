@@ -13,6 +13,7 @@
     - "{{ jenkins_pimt_version }}"
     - "{{ jenkins_plugins_file }}"
     - "{{ jenkins_port }}"
+    - "{{ jenkins_prefix }}"
     - "{{ jenkins_root }}"
     - "{{ jenkins_user }}"
     - "{{ jenkins_version }}"
